@@ -1,0 +1,3 @@
+frontend/web/css/* linguist-vendored
+frontend/web/vendors/* linguist-vendored
+backend/web/css/* linguist-vendored
