@@ -1,3 +1,2 @@
-Restaurant/frontend/web/css/* linguist-vendored
-Restaurant/frontend/web/vendors/* linguist-vendored
-Restaurant/backend/web/css/* linguist-vendored
+frontend/web/* linguist-vendored
+backend/web/* linguist-vendored
